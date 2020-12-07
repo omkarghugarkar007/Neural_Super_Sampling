@@ -2,6 +2,7 @@ from util import resolve_single, resolve, normalize, denormalize, normalize_01, 
 from tensorflow.python.keras.layers import Add, BatchNormalization, Conv2D, Dense, Flatten, Input, LeakyReLU, PReLU, \
     Lambda, Activation, Concatenate, Multiply, Dropout
 from tensorflow.python.keras.models import Model
+import tensorflow as tf
 from tensorflow.python.keras.applications.vgg19 import VGG19
 
 LR_SIZE = 24

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad010052-d120-4d7b-a1f9-8e8eca2305f6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Improvement/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Improvement/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Improvement/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Improvement/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Improvement/test_image/output/0123.png" beforeDir="false" afterPath="$PROJECT_DIR$/Improvement/test_image/output/0123.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Improvement/test_image/output/0234.png" beforeDir="false" afterPath="$PROJECT_DIR$/Improvement/test_image/output/0234.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Improvement/test_image/output/04336.png" beforeDir="false" afterPath="$PROJECT_DIR$/Improvement/test_image/output/04336.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Improvement/test_image/output/050.png" beforeDir="false" afterPath="$PROJECT_DIR$/Improvement/test_image/output/050.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lL5N6u5LIdQ6ecbUMQGquyHRYS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Improvement/test.py" />
+  </component>
+  <component name="RunManager">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Neural_Super_Sampling" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\HP\AppData\Local\Microsoft\WindowsApps\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Improvement" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Improvement/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad010052-d120-4d7b-a1f9-8e8eca2305f6" name="Default Changelist" comment="" />
+      <created>1607363489107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607363489107</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607363542840">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1607363542840" />
+    <state x="548" y="179" key="FileChooserDialogImpl" timestamp="1607363535458">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="179" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607363535458" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1607365159468">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607365159468" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1607365159468">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607365159468" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1607365159468">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607365159468" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1607365159468">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607365159468" />
+  </component>
+</project>
