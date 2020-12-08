@@ -12,6 +12,8 @@ Test file contains the code to train the model. To test, simply add your image i
 A juypter notebook containing code is also provided for training on colab or asure, whatever you prefer <br>
 
 The data used for training - https://drive.google.com/drive/folders/1FZ4hENjVS-AGnlPWnbMG-YqzDRS8hKb5?usp=sharing <br>
+Link to PPT - https://drive.google.com/file/d/1Wp6utVCK8Hd2RBC49CuObuVEbTYJHmnE/view?usp=sharing <br>
+Please open PPT with google slides to view it's content properly
 
 SRGAN is based on the Paper - https://arxiv.org/abs/1609.04802 <br>
 Improvement is inspired by the Paper - https://arxiv.org/abs/1809.00219 <br>
