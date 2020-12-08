@@ -9,6 +9,10 @@ Model file contains the model Generator and Discriminator code <br>
 Train file contains the code to train the model <br>
 Test file contains the code to train the model. To test, simply add your image in the input folder of the test_image folder and change the path accordingly in the code <br>
 
+A juypter notebook containing code is also provided for training on colab or asure, whatever you prefer <br>
+
+The data used for training - https://drive.google.com/drive/folders/1FZ4hENjVS-AGnlPWnbMG-YqzDRS8hKb5?usp=sharing <br>
+
 SRGAN is based on the Paper - https://arxiv.org/abs/1609.04802 <br>
 Improvement is inspired by the Paper - https://arxiv.org/abs/1809.00219 <br>
 
